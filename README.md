@@ -1,10 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-DevOps Engineer 👨‍💻 @ [MediaMarktSaturn](https://mediamarktsaturn.com) for living 🏣  
+DevOps Warlock 👨‍💻 @ [MediaMarktSaturn](https://mediamarktsaturn.com) for living 🏣  
 Photo assistant 👨‍💼️ @ [carolin.photography](https://carolin.photography) for love ❤️  
 Streetphotography Artist 👨‍🎨️ for passion 🙌 you can see my work on [steinbrueck.io](https://steinbrueck.io)  
 
-![](https://steinbrueck.io/images/frontpage_hu1343bd29fb22555f3577f29f21b050de_691467_2500x0_resize_q75_box.jpg)
+![Imgur](https://i.imgur.com/mh8RBjJl.jpg)
+
+## Like my stuff?
+
+Would you like to buy me a coffee or send me a tip?
+While it's not expected, I would really appreciate it.
+
+[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/rsteinbrueck) <a href="https://www.buymeacoffee.com/steinbrueckri" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Stats
 
