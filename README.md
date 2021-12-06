@@ -1,35 +1,21 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Richard!
 
-DevOps Warlock 👨‍💻 @ [MediaMarktSaturn](https://mediamarktsaturn.com) for living 🏣  
-Photo assistant 👨‍💼️ @ [carolin.photography](https://carolin.photography) for love ❤️  
-Streetphotography Artist 👨‍🎨️ for passion 🙌 you can see my work on [steinbrueck.io](https://steinbrueck.io)  
+![Me](https://i.imgur.com/mh8RBjJl.jpg)
 
-![Imgur](https://i.imgur.com/mh8RBjJl.jpg)
+- DevOps Warlock 👨‍💻 @ [MediaMarktSaturn](https://mediamarktsaturn.com) for living 🏣
+- Photo assistant 👨‍💼️ @ [carolin.photography](https://carolin.photography) for love ❤️
+- Streetphotography Artist 👨‍🎨️ for passion 🙌 you can see my work on [steinbrueck.io](https://steinbrueck.io)
 
-## Like my stuff?
+## ⚡ Some fun fact about me
 
-Would you like to buy me a coffee or send me a tip?
-While it's not expected, I would really appreciate it.
+- I do not know how to exit (n)vim, so I just stay in the terminal 😅
+- Typing on a Kinesis Advantage Keyboard ⌨️
+- Everything should be automated, because the lifetime is too short to repeat yourself ⚡️
+- If I leave the office then only with Frank 🐶 and my Fujifilm X-T3 📸
 
-[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/rsteinbrueck) <a href="https://www.buymeacoffee.com/steinbrueckri" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+![Frank](https://imgur.com/p0y43G8.jpg)
 
-## Stats
+## &#x1f4c8; My GitHub Stats
 
 ![Richard's github stats](https://github-readme-stats.vercel.app/api?username=steinbrueckri&show_icons=true)
-
 [![Richard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steinbrueckri&layout=compact)](https://github.com/steinbrueckri/steinbrueckri)
-
-<!--
-**steinbrueckri/steinbrueckri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
