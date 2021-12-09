@@ -17,5 +17,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-![Richard's github stats](https://github-readme-stats.vercel.app/api?username=steinbrueckri&show_icons=true)
-[![Richard's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steinbrueckri&layout=compact)](https://github.com/steinbrueckri/steinbrueckri)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steinbrueckri&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steinbrueckri&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steinbrueckri&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steinbrueckri&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steinbrueckri&theme=nord_bright)
