@@ -17,8 +17,4 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steinbrueckri&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steinbrueckri&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steinbrueckri&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steinbrueckri&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steinbrueckri&theme=nord_bright)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/stats/github-metrics.svg)
