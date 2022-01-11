@@ -27,7 +27,7 @@ jobs:
           plugin_achievements_only: explorer    # Display only "explorer" achievement (don't use with "ignored" option)
           # notable
           plugin_notable: yes
-          plugin_notable_filter: stars:>200 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_filter: stars:>100 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
           plugin_notable_from: organization # Only display contributions within organization repositories
           plugin_notable_repositories: yes  # Display repositories name instead of only organization name
           plugin_notable_indepth: yes       # Gather additional informations about contributions

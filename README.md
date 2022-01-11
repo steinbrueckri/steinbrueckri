@@ -17,4 +17,4 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-![Metrics](https://github.com/steinbrueckri/steinbrueckri/blob/stats/github-metrics.svg)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
