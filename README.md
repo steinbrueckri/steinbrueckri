@@ -2,8 +2,8 @@
 
 ![Me](https://i.imgur.com/mh8RBjJl.jpg)
 
-- DevOps Warlock 👨‍💻 @ [MediaMarktSaturn](https://mediamarktsaturn.com) for living 🏣
-- Photo assistant 👨‍💼️ @ [carolin.photography](https://carolin.photography) for love ❤️
+- DevOps Warlock 👨‍💻 @ [Userlike 💙](https://userlike.com) for living 🏣
+- Photo assistant 👨‍💼️ @ [carolin.photography 📸](https://carolin.photography) for love ❤️
 - Streetphotography Artist 👨‍🎨️ for passion 🙌 you can see my work on [steinbrueck.io](https://steinbrueck.io)
 
 ## ⚡ Some fun fact about me
