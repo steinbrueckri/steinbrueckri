@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Richard!
 
-![Me](https://i.imgur.com/mh8RBjJl.jpg)
+![me_small](https://github.com/user-attachments/assets/b6280e21-9ce8-4893-82b7-02dccb85bd00)
+
 
 - DevOps Warlock 👨‍💻 @ [Userlike 💙](https://userlike.com) for living 🏣
 - Photo assistant 👨‍💼️ @ [carolin.photography 📸](https://carolin.photography) for love ❤️
