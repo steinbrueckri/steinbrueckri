@@ -14,7 +14,8 @@
 - Everything should be automated, because the lifetime is too short to repeat yourself ⚡️
 - If I leave the office then only with Frank 🐶 and my Fujifilm X-T3 📸
 
-![Frank](https://imgur.com/p0y43G8.jpg)
+![Frank](https://github.com/user-attachments/assets/168eb257-6314-43bb-b69c-c39747a29e5d)
+
 
 ## &#x1f4c8; My GitHub Stats
 
